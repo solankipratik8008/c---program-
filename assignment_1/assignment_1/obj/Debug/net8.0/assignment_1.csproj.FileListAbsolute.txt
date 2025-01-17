@@ -1,0 +1,14 @@
+C:\newconsoleapp\assignment_1\assignment_1\bin\Debug\net8.0\assignment_1.exe
+C:\newconsoleapp\assignment_1\assignment_1\bin\Debug\net8.0\assignment_1.deps.json
+C:\newconsoleapp\assignment_1\assignment_1\bin\Debug\net8.0\assignment_1.runtimeconfig.json
+C:\newconsoleapp\assignment_1\assignment_1\bin\Debug\net8.0\assignment_1.dll
+C:\newconsoleapp\assignment_1\assignment_1\bin\Debug\net8.0\assignment_1.pdb
+C:\newconsoleapp\assignment_1\assignment_1\obj\Debug\net8.0\assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\newconsoleapp\assignment_1\assignment_1\obj\Debug\net8.0\assignment_1.AssemblyInfoInputs.cache
+C:\newconsoleapp\assignment_1\assignment_1\obj\Debug\net8.0\assignment_1.AssemblyInfo.cs
+C:\newconsoleapp\assignment_1\assignment_1\obj\Debug\net8.0\assignment_1.csproj.CoreCompileInputs.cache
+C:\newconsoleapp\assignment_1\assignment_1\obj\Debug\net8.0\assignment_1.dll
+C:\newconsoleapp\assignment_1\assignment_1\obj\Debug\net8.0\refint\assignment_1.dll
+C:\newconsoleapp\assignment_1\assignment_1\obj\Debug\net8.0\assignment_1.pdb
+C:\newconsoleapp\assignment_1\assignment_1\obj\Debug\net8.0\assignment_1.genruntimeconfig.cache
+C:\newconsoleapp\assignment_1\assignment_1\obj\Debug\net8.0\ref\assignment_1.dll
